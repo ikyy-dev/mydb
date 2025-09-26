@@ -1,12 +1,12 @@
 {
-    "username": "ikyy",
-    "password": "1"
-  },
-  {
-    "username": "buyer",
-    "password": "2"
-  },
-  {
-    "username": "admin",
-    "password": "1234"
-  }
+  "users": [
+    {
+      "username": "ikyy",
+      "password": "1"
+    },
+    {
+      "username": "buyer",
+      "password": "2"
+    }
+  ]
+}
